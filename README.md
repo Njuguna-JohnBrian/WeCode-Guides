@@ -84,5 +84,7 @@
 
 
 ## ASSIGNMENT
+
 [Watch this video and complete everything in it, proof of completion will be required by Sunday Evening](https://youtu.be/CvUiKWv2-C0?si=htRr7Ov8I0X8J21e)
 - Please note that you will take turns presenting and explaining some few concepts
+- Try to take notes and document the commands 
